@@ -1,4 +1,4 @@
-# Loan SOlution
+# Loan Solution
 This is a Maven based java application. developed to calculate lowest loan rate from lenders.
 
 Solution is provided as jar file, can be executed as:
